@@ -9,6 +9,13 @@
     --neon-pink: #ff6ec7; /* Neon rosa */
 }
 
+cursor:default{
+    cursor: url("img/cursor.png");
+}
+cursor:pointer{
+    cursor: url("img/cursor.png");
+}
+
 * {
     margin: 0;
     padding: 0;
